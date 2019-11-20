@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Chris] Jake Barlow</title>
+    <link>/</link>
+    <description>Recent content on [Chris] Jake Barlow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>noun \kə-ˈri-kyə-ləm-ˈvē-ˌtī, -kə-ləm-, -ˈwē-ˌtī, -ˈvī-ˌtē
+: a short overview of one’s experience and qualifications, from the Latin, ‘the course of my life’.
+ Almae Matres  University of Sydney
+ Master of Public Health (Research Statistics)
+2013-2015.  Monash University  Bachelor of Medicine/Bachelor of Surgery
+2008-2012.   Work Prevocational  Internship - 2013
+The Alfred Hospital, Melbourne  Emergency Medicine General Medicine Colorectal Surgery Emergency (Rural - CGHS) Subacute Medicine  Critical Care HMO2 - 2014</description>
+    </item>
+    
+    <item>
+      <title>Gray Matter</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Medical endeavors, in various stages of completion, that you may be interested in
+ Part One An (incomplete, but substantial), free, open access medical education resource and reference for trainees preparing for the CICM and ANZCA Primary Exams.
+ Part One is:  Designed to cover the assessed sections of the CICM and ANZCA curricula in enough detail to pass A rough guide for the expected depth of knowledge required on a topic A tool to correct your written answers A source of information you might find difficult to find elsewhere  Part One is not:  A textbook The definitive guide to the primary exam</description>
+    </item>
+    
+  </channel>
+</rss>
