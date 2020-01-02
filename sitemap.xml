@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.jakebarlow.me/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.jakebarlow.me/categories/</loc>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://www.jakebarlow.me/series/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.jakebarlow.me/tags/</loc>
   </url>
   
 </urlset>
